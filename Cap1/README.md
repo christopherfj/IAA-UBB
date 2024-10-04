@@ -1,3 +1,6 @@
-QT-Designer:
+Qt Designer:
 
-https://build-system.fman.io/qt-designer-download
+
+
+<a href="[http://example.com/](https://build-system.fman.io/qt-designer-download)" target="_blank">example</a>
+
